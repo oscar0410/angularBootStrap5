@@ -4,6 +4,6 @@
  * Create Angular 13 App
  * Install Bootstrap 5
  * Configure Bootstrap 5 into Angular App
- * User Bootstrap 5 in Angular
+ * Use Bootstrap 5 in Angular
  * Run Angular App
 
